@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laptrinhhuongdoituong\\lab4ke thua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|solutionrelative:lab4ke thua\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|solutionrelative:lab4ke thua\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|solutionrelative:lab4ke thua\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173F1F5D-E61E-4E65-B594-ED9EBEAED2F1}|lab4ke thua\\lab4ke thua.vcxproj|solutionrelative:lab4ke thua\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.h",
+              "DocumentMoniker": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Truck.h",
+              "RelativeDocumentMoniker": "lab4ke thua\\Truck.h",
+              "ToolTip": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Truck.h",
+              "RelativeToolTip": "lab4ke thua\\Truck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T16:44:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Car.h",
+              "RelativeDocumentMoniker": "lab4ke thua\\Car.h",
+              "ToolTip": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Car.h",
+              "RelativeToolTip": "lab4ke thua\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T16:40:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Vehicle.h",
+              "RelativeDocumentMoniker": "lab4ke thua\\Vehicle.h",
+              "ToolTip": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\Vehicle.h",
+              "RelativeToolTip": "lab4ke thua\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T16:38:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\main.cpp",
+              "RelativeDocumentMoniker": "lab4ke thua\\main.cpp",
+              "ToolTip": "D:\\laptrinhhuongdoituong\\lab4ke thua\\lab4ke thua\\main.cpp*",
+              "RelativeToolTip": "lab4ke thua\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T16:37:42.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
